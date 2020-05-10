@@ -1,8 +1,7 @@
 const Discord = require("discord.js");
 const { MessageEmbed } = require("discord.js");
 const { createHash } = require("crypto");
-//const { getMember, formatDate } = require("../../functions.js");
-//const steamId = 76561198120289934n;
+
 let bytes = [];
 module.exports = {
     usage: "-guid",
