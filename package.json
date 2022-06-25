@@ -21,7 +21,7 @@
         "dotenv": "^8.2.0",
         "erela.js": "^1.1.7",
         "jsdom": "^16.2.1",
-        "node-fetch": "^2.6.0",
+        "node-fetch": "^2.6.7",
         "node-int64": "^0.4.0",
         "request": "^2.88.2",
         "stream": "0.0.2",
